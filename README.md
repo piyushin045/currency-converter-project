@@ -1,5 +1,22 @@
 # currency-convertor-project
 
+# project link :- https://currency-conversion-project.netlify.app/
+
+A simple and responsive currency converter web app built with React. This project fetches real-time exchange rates using a free currency API and allows users to convert between multiple currencies with ease.
+
+# 🚀 Features
+🔄 Real-time exchange rate conversion
+
+🌍 Supports multiple global currencies
+
+🧮 Instant calculations on input change
+
+📱 Responsive and clean UI
+
+🌐 Fetches live data from Currency API by Fawaz Ahmed
+# API Link :- https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2024-03-06/v1/currencies/${currency}.json
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
